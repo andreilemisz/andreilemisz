@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome! I'm Andrei Lemisz! 👋
+# Hello! I'm Andrei Lemisz! 👋
 
 ### Systems Thinker | Software Developer | Data Analyst
 
